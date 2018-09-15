@@ -2,3 +2,5 @@
 out
 build_log.txt
 build_errors.txt
+*.iml
+build
